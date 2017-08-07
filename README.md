@@ -1,4 +1,6 @@
-# Possible React Layout
+![In Rhythm](logo.gif)
+
+# Training Layout
 
 1. Day 1: [Intro To ES6](/ES6.md)
 1. Day 1: [Essential Tools (Atom/JSX + Babel.io)](/Tools.md)

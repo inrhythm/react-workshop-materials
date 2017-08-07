@@ -1,3 +1,5 @@
+![In Rhythm](logo.gif)
+
 # Webpack
 
 - Webpack assembles your code and uses plug-ins to add additional features

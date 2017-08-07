@@ -1,3 +1,5 @@
+![In Rhythm](logo.gif)
+
 # Tools
 
 ## Lesson Objectives

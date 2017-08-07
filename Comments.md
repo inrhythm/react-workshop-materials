@@ -1,3 +1,5 @@
+![In Rhythm](logo.gif)
+
 # Comments Component Build
 
 This builds off of what was built by the end of [the Webpack Lesson](Webpack.md).

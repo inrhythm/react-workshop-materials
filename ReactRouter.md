@@ -1,3 +1,5 @@
+![In Rhythm](logo.gif)
+
 # React router
 
 ## Lesson Objectives

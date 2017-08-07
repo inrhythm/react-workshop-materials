@@ -1,3 +1,5 @@
+![In Rhythm](logo.gif)
+
 # Intro to React
 
 # Lesson Objectives

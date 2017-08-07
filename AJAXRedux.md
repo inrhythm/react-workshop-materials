@@ -1,3 +1,5 @@
+![In Rhythm](logo.gif)
+
 # Using AJAX With Redux
 
 ## Lesson Objectives

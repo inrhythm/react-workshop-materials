@@ -1,3 +1,5 @@
+![In Rhythm](logo.gif)
+
 # Integrate Redux Into Comments Part 2
 
 The last section works, but there are some optimizations we can make
